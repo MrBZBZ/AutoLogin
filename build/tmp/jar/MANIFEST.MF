@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: LeavesHack
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2023-08-12T13:48:29+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
