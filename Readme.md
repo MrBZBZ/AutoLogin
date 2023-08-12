@@ -4,6 +4,7 @@
 - 用于在服务器中快速输入密码进入服务器
 # 适用与Minecraft1.12.2版本
 # 教程
-- 只需要在你的.minecraft目录中找到password.txt在里面写入你的离线密码即可
+- 直接将mod拖入你的mods文件夹
+- 在你的.minecraft目录中找到password.txt在里面写入你的离线密码
 - 如果您是正版用户，则直接将password.txt留空即可
 - 进入服务器后聊天栏也会有教程，默认使用的登录指令是“/login + 密码”
