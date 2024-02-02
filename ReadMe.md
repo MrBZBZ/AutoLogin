@@ -1,5 +1,7 @@
 # AutoLogin-0.0.2🤗
 * Minecraft1.12.2的自动登录模组
+* BiliBili视频链接：https://b23.tv/hB2Goch  
+点个赞👍？  
 * 用于在离线服务器自动输入密码和自动执行进服操作
 # 有什么功能？🤔
 * 💪自动登录：自动帮离线用户在Minecraft离线服务器中输入密码
