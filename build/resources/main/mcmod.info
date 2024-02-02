@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autologin",
+  "name": "AutoLogin",
+  "description": "Powered by Leaves_awa",
+  "version": "0.0.2",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Leaves_awa"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
