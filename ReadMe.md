@@ -10,7 +10,7 @@
 * 💪自定义设置：最大化提升您的游戏体验
 # 如何使用？🤔
 * 下载release中的jar，拖入minecraft的mods文件夹中，启动游戏
-* 加载mod时会在游戏目录中生成./AutoLogin/Settings.txt这个是您的配置文件，可以进行更改
+* 加载mod时会在游戏目录中生成./minecraft/AutoLogin/Settings.txt这个是您的配置文件，可以进行更改
 * 所有功能默认为true（启用）默认密码123456
 * 功能列表：  
 AutoLogin：自动登录  
