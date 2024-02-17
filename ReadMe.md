@@ -17,7 +17,7 @@
 * 所有功能默认为true（启用）默认密码123456
 * 功能列表：  
 AutoLogin：自动登录  
-AutoResconect：自动重连  
+AutoReconnect：自动重连  
 AutoSwitch：自动切换指南针并使用  
 Password：您的密码  
 * 文件配置可以在游戏运行时随时更改，不需要重启客户端
